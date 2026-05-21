@@ -323,11 +323,11 @@ ninja.data = [{
             window.location.href = "/blog/2021/diagrams/";
           
         },
-      },{id: "post-a-post-with-twitter",
+      },{id: "post-twitter",
         
-          title: "a post with twitter",
+          title: "Twitter",
         
-        description: "an example of a blog post with twitter",
+        description: "",
         section: "Posts",
         handler: () => {
           
